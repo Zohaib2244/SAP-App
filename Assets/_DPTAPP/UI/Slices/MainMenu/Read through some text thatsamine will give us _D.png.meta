@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: 280f074cc4fb05e4ab84f3ba8b573b18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7134018770177118129
+    second: Read through some text thatsamine will give us _D_0
+  - first:
+      213: 1664971199614539344
+    second: Read through some text thatsamine will give us _D_1
+  - first:
+      213: 2733712078784877387
+    second: Read through some text thatsamine will give us _D_2
+  - first:
+      213: -2211938249360626394
+    second: Read through some text thatsamine will give us _D_3
+  - first:
+      213: -5040178493649130234
+    second: Read through some text thatsamine will give us _D_4
+  - first:
+      213: -6955718798058896392
+    second: Read through some text thatsamine will give us _D_5
+  - first:
+      213: -5030929676146563889
+    second: Read through some text thatsamine will give us _D_6
+  - first:
+      213: 1726012127681211079
+    second: Read through some text thatsamine will give us _D_7
+  - first:
+      213: -6535282210547713963
+    second: Read through some text thatsamine will give us _D_8
+  - first:
+      213: 5177227133138109826
+    second: Read through some text thatsamine will give us _D_9
+  - first:
+      213: -6801779801917731901
+    second: Read through some text thatsamine will give us _D_10
+  - first:
+      213: 7457055006736606633
+    second: Read through some text thatsamine will give us _D_11
+  - first:
+      213: -627712762126727759
+    second: Read through some text thatsamine will give us _D_12
+  - first:
+      213: 7602907052200050036
+    second: Read through some text thatsamine will give us _D_13
+  - first:
+      213: -4500204002435145465
+    second: Read through some text thatsamine will give us _D_14
+  - first:
+      213: 4802458431153901762
+    second: Read through some text thatsamine will give us _D_15
+  - first:
+      213: -3773865486932890864
+    second: Read through some text thatsamine will give us _D_16
+  - first:
+      213: 254127356582070643
+    second: Read through some text thatsamine will give us _D_17
+  - first:
+      213: -3059276727128053555
+    second: Read through some text thatsamine will give us _D_18
+  - first:
+      213: -4367165705310276309
+    second: Read through some text thatsamine will give us _D_19
+  - first:
+      213: 6896262388172469485
+    second: Read through some text thatsamine will give us _D_20
+  - first:
+      213: -1859321247973972407
+    second: Read through some text thatsamine will give us _D_21
+  - first:
+      213: 1712565623352029464
+    second: Read through some text thatsamine will give us _D_22
+  - first:
+      213: 8522876173390598720
+    second: Read through some text thatsamine will give us _D_23
+  - first:
+      213: 3564418375470585747
+    second: Read through some text thatsamine will give us _D_24
+  - first:
+      213: -7417522364789590765
+    second: Read through some text thatsamine will give us _D_25
+  - first:
+      213: -4730349903464773174
+    second: Read through some text thatsamine will give us _D_26
+  - first:
+      213: 539282687189171182
+    second: Read through some text thatsamine will give us _D_27
+  - first:
+      213: -973037154155089280
+    second: Read through some text thatsamine will give us _D_28
+  - first:
+      213: -719633874267002277
+    second: Read through some text thatsamine will give us _D_29
+  - first:
+      213: 1249933694863496002
+    second: Read through some text thatsamine will give us _D_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf40691640210360800000000000000
+      internalID: 7134018770177118129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 50
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056d7421c7a2b1710800000000000000
+      internalID: 1664971199614539344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 50
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43da2ed6a810f520800000000000000
+      internalID: 2733712078784877387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 50
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da2cda1ed9d41e0800000000000000
+      internalID: -2211938249360626394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 50
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dea713d50bd0ab0800000000000000
+      internalID: -5040178493649130234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3413c2b92587f90800000000000000
+      internalID: -6955718798058896392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 50
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc420535d1c8e2ab0800000000000000
+      internalID: -5030929676146563889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 50
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca6474a2e604f710800000000000000
+      internalID: 1726012127681211079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 45
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558bf5574730e45a0800000000000000
+      internalID: -6535282210547713963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 50
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2850630c5a439d740800000000000000
+      internalID: 5177227133138109826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 50
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb444abe493b91a0800000000000000
+      internalID: -6801779801917731901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5651bf408cc7760800000000000000
+      internalID: 7457055006736606633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 50
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b50570919ae947f0800000000000000
+      internalID: -627712762126727759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 50
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d32ba9ea3f28960800000000000000
+      internalID: 7602907052200050036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 50
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701ef0a8d401c81c0800000000000000
+      internalID: -4500204002435145465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c01285af72c5a240800000000000000
+      internalID: 4802458431153901762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 50
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b224d955980abc0800000000000000
+      internalID: -3773865486932890864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37988c00c77d68300800000000000000
+      internalID: 254127356582070643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 50
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8a9e186044b85d0800000000000000
+      internalID: -3059276727128053555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 50
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2576b3ede5b463c0800000000000000
+      internalID: -4367165705310276309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 50
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de438e4aa1274bf50800000000000000
+      internalID: 6896262388172469485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_21
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 50
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ec231d2d5236e0800000000000000
+      internalID: -1859321247973972407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 50
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81171726c5144c710800000000000000
+      internalID: 1712565623352029464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042569b39b6574670800000000000000
+      internalID: 8522876173390598720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3979ccc90ab577130800000000000000
+      internalID: 3564418375470585747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315733d75baaf0990800000000000000
+      internalID: -7417522364789590765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9cda443db6a5eb0800000000000000
+      internalID: -4730349903464773174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebbd6b2fbaeb7700800000000000000
+      internalID: 539282687189171182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08234591dd31f72f0800000000000000
+      internalID: -973037154155089280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a2afbddc85306f0800000000000000
+      internalID: -719633874267002277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Read through some text thatsamine will give us _D_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2435123b218a85110800000000000000
+      internalID: 1249933694863496002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

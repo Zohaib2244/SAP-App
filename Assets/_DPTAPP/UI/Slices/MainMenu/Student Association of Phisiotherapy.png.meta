@@ -1,0 +1,1056 @@
+fileFormatVersion: 2
+guid: 49ef4a6d126ba684fb3231b278146c38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9096390155916050067
+    second: Student Association of Phisiotherapy_0
+  - first:
+      213: 7602908755747990132
+    second: Student Association of Phisiotherapy_1
+  - first:
+      213: 3281804777230103359
+    second: Student Association of Phisiotherapy_2
+  - first:
+      213: -8754582853346101202
+    second: Student Association of Phisiotherapy_3
+  - first:
+      213: 2323742807727196672
+    second: Student Association of Phisiotherapy_4
+  - first:
+      213: 938417442043730445
+    second: Student Association of Phisiotherapy_5
+  - first:
+      213: 6162744914777808354
+    second: Student Association of Phisiotherapy_6
+  - first:
+      213: 7580326554044410797
+    second: Student Association of Phisiotherapy_7
+  - first:
+      213: 2275048788687609777
+    second: Student Association of Phisiotherapy_8
+  - first:
+      213: -5144665110990677712
+    second: Student Association of Phisiotherapy_9
+  - first:
+      213: 6022033159505229933
+    second: Student Association of Phisiotherapy_10
+  - first:
+      213: -5690451664375524
+    second: Student Association of Phisiotherapy_11
+  - first:
+      213: 7585701287061905380
+    second: Student Association of Phisiotherapy_12
+  - first:
+      213: -7097591539135227929
+    second: Student Association of Phisiotherapy_13
+  - first:
+      213: 6963736247174616058
+    second: Student Association of Phisiotherapy_14
+  - first:
+      213: -5715900028244564509
+    second: Student Association of Phisiotherapy_15
+  - first:
+      213: 1384204383914321136
+    second: Student Association of Phisiotherapy_16
+  - first:
+      213: 1289577275043782632
+    second: Student Association of Phisiotherapy_17
+  - first:
+      213: 3679046902656323903
+    second: Student Association of Phisiotherapy_18
+  - first:
+      213: 5580916980734841193
+    second: Student Association of Phisiotherapy_19
+  - first:
+      213: -2432694446577299524
+    second: Student Association of Phisiotherapy_20
+  - first:
+      213: -799152065699684907
+    second: Student Association of Phisiotherapy_21
+  - first:
+      213: -6179682397288833008
+    second: Student Association of Phisiotherapy_22
+  - first:
+      213: -452399363935328561
+    second: Student Association of Phisiotherapy_23
+  - first:
+      213: 6978906025770709979
+    second: Student Association of Phisiotherapy_24
+  - first:
+      213: -8498067690197754316
+    second: Student Association of Phisiotherapy_25
+  - first:
+      213: -3923500200055025925
+    second: Student Association of Phisiotherapy_26
+  - first:
+      213: 1218334473697119341
+    second: Student Association of Phisiotherapy_27
+  - first:
+      213: -3199488599260823149
+    second: Student Association of Phisiotherapy_28
+  - first:
+      213: -540786914155459997
+    second: Student Association of Phisiotherapy_29
+  - first:
+      213: 7565878862651080669
+    second: Student Association of Phisiotherapy_30
+  - first:
+      213: 2928837108585147981
+    second: Student Association of Phisiotherapy_31
+  - first:
+      213: 7204374728914048969
+    second: Student Association of Phisiotherapy_32
+  - first:
+      213: -8343331963916658914
+    second: Student Association of Phisiotherapy_33
+  - first:
+      213: 8079753600181852615
+    second: Student Association of Phisiotherapy_34
+  - first:
+      213: -9005241043318323047
+    second: Student Association of Phisiotherapy_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e7cbde6aedc3e70800000000000000
+      internalID: 9096390155916050067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ae01e3b35f28960800000000000000
+      internalID: 7602908755747990132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33faf0ae005b8d20800000000000000
+      internalID: 3281804777230103359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2874955749718680800000000000000
+      internalID: -8754582853346101202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ac2fb95c79f3020800000000000000
+      internalID: 2323742807727196672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a1c0c01bde50d00800000000000000
+      internalID: 938417442043730445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed1dae29d7768550800000000000000
+      internalID: 6162744914777808354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab274fa6dab23960800000000000000
+      internalID: 7580326554044410797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 6
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf5860d1d8929f10800000000000000
+      internalID: 2275048788687609777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0391e03d65a7a98b0800000000000000
+      internalID: -5144665110990677712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68bee1a04f829350800000000000000
+      internalID: 6022033159505229933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 6
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11fee97098cbeff0800000000000000
+      internalID: -5690451664375524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef5c8b3123d54960800000000000000
+      internalID: 7585701287061905380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7d60d891a408d90800000000000000
+      internalID: -7097591539135227929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3da5aa83924a060800000000000000
+      internalID: 6963736247174616058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 6
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e566dc553b0da0b0800000000000000
+      internalID: -5715900028244564509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f460c7ad8ea53310800000000000000
+      internalID: 1384204383914321136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef966df2bf75e110800000000000000
+      internalID: 1289577275043782632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_18
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 6
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31d4d06aa99e0330800000000000000
+      internalID: 3679046902656323903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 5
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96155adcc66637d40800000000000000
+      internalID: 5580916980734841193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 6
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfc1b03a455d3ed0800000000000000
+      internalID: -2432694446577299524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_21
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 6
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd537a2e67d8e4f0800000000000000
+      internalID: -799152065699684907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 6
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0106ddcd99b5d3aa0800000000000000
+      internalID: -6179682397288833008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 5
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6a508ec21c8b9f0800000000000000
+      internalID: -452399363935328561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_24
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd375eafd0e0ad060800000000000000
+      internalID: 6978906025770709979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 5
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ed980e57cc01a80800000000000000
+      internalID: -8498067690197754316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 6
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfecb8b0b5dec89c0800000000000000
+      internalID: -3923500200055025925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c4452bfb468e010800000000000000
+      internalID: 1218334473697119341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 5
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391852212122993d0800000000000000
+      internalID: -3199488599260823149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_29
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 6
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a8592ba2dbe78f0800000000000000
+      internalID: -540786914155459997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 6
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf34f56db66ff860800000000000000
+      internalID: 7565878862651080669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_31
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 5
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e233625d155a820800000000000000
+      internalID: 2928837108585147981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 6
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c719b145a41bf360800000000000000
+      internalID: 7204374728914048969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_33
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 5
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17d59f98c7863c80800000000000000
+      internalID: -8343331963916658914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9d58b471d012070800000000000000
+      internalID: 8079753600181852615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Student Association of Phisiotherapy_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9984e30abf4f60380800000000000000
+      internalID: -9005241043318323047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

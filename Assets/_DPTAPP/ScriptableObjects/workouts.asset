@@ -1,0 +1,4112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5b2e8273e73874596bde721f7c5fab, type: 3}
+  m_Name: workouts
+  m_EditorClassIdentifier: 
+  workoutData:
+  - title: Strength Training Plan
+    goal: Build muscle strength using bodyweight, dumbbells, and resistance bands
+    equipment:
+    - Body Weight
+    - Dumbbells
+    - Resistance Bands
+    excludedCategory: 0
+    sessions:
+    - name: 'Full-Body Strength Foundation '
+      sessionPoints: 20
+      currentExerciseIndex: 1
+      isReadyToBeShown: 1
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: Forward Arm Circles
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: da56d55bdb4d48b458a2ab5c99f5850f, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 0
+          instructions: []
+        - name: Backward Arm Circles
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: b09a984ea7b49034e9f168368e9046da, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 0
+          instructions: []
+        - name: High Knees
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: bc9d88bd8467c464983299f1bb603061, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 0
+          instructions: []
+        - name: Bodyweight Squats
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: a4d274c4ebf1b384fb4041d70aaf374c, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 30
+        exercises:
+        - name: Bodyweight Squats
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: a4d274c4ebf1b384fb4041d70aaf374c, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Push Up
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 56f58c3e80cc8ac47a61132e571b7fa9, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Bent-over Dumbbell Row
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: f8b353329d58ac048b8bda4ebbf10ea5, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Plank Hold
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 5421a7003534ab4458bca1baece57d53, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 45
+          instructions: []
+        - name: Bodyweight Squats
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: a4d274c4ebf1b384fb4041d70aaf374c, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Push Up
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 56f58c3e80cc8ac47a61132e571b7fa9, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Bent-over Dumbbell Row
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: f8b353329d58ac048b8bda4ebbf10ea5, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Plank Hold
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 5421a7003534ab4458bca1baece57d53, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 45
+          instructions: []
+        - name: Bodyweight Squats
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: a4d274c4ebf1b384fb4041d70aaf374c, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Push Up
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 56f58c3e80cc8ac47a61132e571b7fa9, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Bent-over Dumbbell Row
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: f8b353329d58ac048b8bda4ebbf10ea5, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Plank Hold
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 5421a7003534ab4458bca1baece57d53, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 45
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: Hamstring Stretch
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: d1e8408599eeb234ea7175bf810c7f4b, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 0
+          instructions: []
+        - name: Shoulder Stretch
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 028a55ec54b8c624bb38b158cf83b03c, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 0
+          instructions: []
+    - name: 'Lower Body Strength & Power '
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 1
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: Jumping Jacks
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: d875735973cc4f94084075059d022921, type: 3}
+          reps: 0
+          durationSeconds: 60
+          restAfterExercise: 0
+          instructions: []
+        - name: Hip Openers
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: c2e1723bd8dc03d4592690e0cd55c049, type: 3}
+          reps: 0
+          durationSeconds: 60
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Bulgarian Split Squats Left Leg
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Bulgarian Split Squats Right Leg
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Bulgarian Split Squats Left Leg
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Bulgarian Split Squats Right Leg
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Bulgarian Split Squats Left Leg
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Bulgarian Split Squats Right Leg
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Elevated Glute Bridge
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: e1538006027818e44a7ec5434be04e6e, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 69082e6c830c37c49b1e17c4e1c07425, type: 3}
+          reps: 0
+          durationSeconds: 40
+          restAfterExercise: 45
+          instructions: []
+        - name: Elevated Glute Bridge
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 747aa54451a183844843d615446c4579, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: e1538006027818e44a7ec5434be04e6e, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 69082e6c830c37c49b1e17c4e1c07425, type: 3}
+          reps: 0
+          durationSeconds: 40
+          restAfterExercise: 45
+          instructions: []
+        - name: Elevated Glute Bridge
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 747aa54451a183844843d615446c4579, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: e1538006027818e44a7ec5434be04e6e, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 69082e6c830c37c49b1e17c4e1c07425, type: 3}
+          reps: 0
+          durationSeconds: 40
+          restAfterExercise: 45
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: Quad Stretch Left Leg
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 1bd1fab10e8567e4888de7d4199a7ee9, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 45
+          instructions: []
+        - name: Quad Stretch Right Leg
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 1bd1fab10e8567e4888de7d4199a7ee9, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 45
+          instructions: []
+    - name: 'Upper Body & Core Strength '
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Strength & Endurance Challenge
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Peak Strength
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+  - title: Weight Loss Workout Plan
+    goal: 'Fat loss through high-intensity workouts, bodyweight exercises, and resistance
+      training '
+    equipment:
+    - Bodyweight
+    - Resistance Bands
+    - Jump Rope
+    excludedCategory: 1
+    sessions:
+    - name: 'Full-Body Fat Burn '
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 1
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: Jumping Jacks
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: c6c051993cd30ce46a0d77e2ff01251a, type: 3}
+          reps: 0
+          durationSeconds: 60
+          restAfterExercise: 0
+          instructions: []
+        - name: High Knees
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: bc9d88bd8467c464983299f1bb603061, type: 3}
+          reps: 0
+          durationSeconds: 60
+          restAfterExercise: 0
+          instructions: []
+        - name: Forward Arm Circles
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: da56d55bdb4d48b458a2ab5c99f5850f, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 0
+          instructions: []
+        - name: Backward Arm Circles
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: da56d55bdb4d48b458a2ab5c99f5850f, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 0
+          instructions: []
+        - name: Bodyweight Squats
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: a4d274c4ebf1b384fb4041d70aaf374c, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 30
+        exercises:
+        - name: Mountain Climbers
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 56f58c3e80cc8ac47a61132e571b7fa9, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Plank Hold
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 5421a7003534ab4458bca1baece57d53, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Push Up
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 56f58c3e80cc8ac47a61132e571b7fa9, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Mountain Climbers
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 56f58c3e80cc8ac47a61132e571b7fa9, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Push Up
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 56f58c3e80cc8ac47a61132e571b7fa9, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Mountain Climbers
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 56f58c3e80cc8ac47a61132e571b7fa9, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Plank Hold
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 5421a7003534ab4458bca1baece57d53, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 45
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: Hamstring Stretch
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: d1e8408599eeb234ea7175bf810c7f4b, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 0
+          instructions: []
+        - name: Shoulder Stretch
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 028a55ec54b8c624bb38b158cf83b03c, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 0
+          instructions: []
+    - name: Lower Body & Cardio Burn
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 1
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: Jump Rope
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 0da9685223ce7bb4a825ea0980c6b34f, type: 3}
+          reps: 0
+          durationSeconds: 60
+          restAfterExercise: 0
+          instructions: []
+        - name: Left Leg Hip Openers
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 63983ded52fd35f4bb72f8db284b104a, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 10
+          instructions: []
+        - name: Right Leg Hip Openers
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 63983ded52fd35f4bb72f8db284b104a, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 10
+          instructions: []
+      mainSegment:
+        totalDuration: 30
+        exercises:
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 40
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 0
+          durationSeconds: 40
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 40
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: Left Side Quad Stretch
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 67f44a6d4d6c73c4893b686d525f1cd7, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 0
+          instructions: []
+        - name: Right Side Quad Stretch
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 67f44a6d4d6c73c4893b686d525f1cd7, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 0
+          instructions: []
+    - name: Upper Body & Core Fat Loss
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: Jump Rope
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 0da9685223ce7bb4a825ea0980c6b34f, type: 3}
+          reps: 0
+          durationSeconds: 60
+          restAfterExercise: 0
+          instructions: []
+        - name: Left Leg Hip Openers
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 63983ded52fd35f4bb72f8db284b104a, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 10
+          instructions: []
+      mainSegment:
+        totalDuration: 30
+        exercises:
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 40
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 0
+          durationSeconds: 40
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 40
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: Left Side Quad Stretch
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 67f44a6d4d6c73c4893b686d525f1cd7, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 0
+          instructions: []
+    - name: 'High-Intensity Fat Burn '
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: Jump Rope
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 0da9685223ce7bb4a825ea0980c6b34f, type: 3}
+          reps: 0
+          durationSeconds: 60
+          restAfterExercise: 0
+          instructions: []
+        - name: Left Leg Hip Openers
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 63983ded52fd35f4bb72f8db284b104a, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 10
+          instructions: []
+      mainSegment:
+        totalDuration: 30
+        exercises:
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 40
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 0
+          durationSeconds: 40
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 40
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: Left Side Quad Stretch
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 67f44a6d4d6c73c4893b686d525f1cd7, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 0
+          instructions: []
+    - name: Maximum Fat Burn Challenge
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: Jump Rope
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 0da9685223ce7bb4a825ea0980c6b34f, type: 3}
+          reps: 0
+          durationSeconds: 60
+          restAfterExercise: 0
+          instructions: []
+        - name: Left Leg Hip Openers
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 63983ded52fd35f4bb72f8db284b104a, type: 3}
+          reps: 0
+          durationSeconds: 30
+          restAfterExercise: 10
+          instructions: []
+      mainSegment:
+        totalDuration: 30
+        exercises:
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Right Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Left Leg Lunges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 521f9ae9a85cd65409e3b6df0117f37b, type: 3}
+          reps: 10
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 40
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Glute Bridges
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 64fa4a78e44030a4cbe9d266322cbb12, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 0
+          durationSeconds: 40
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Squat Jump
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: d12a669853afa1849ad0c9a41f7b0d98, type: 3}
+          reps: 12
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Wall Sit
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: f3445d2198cc13944b6afd84835a8db1, type: 3}
+          reps: 40
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+        - name: Calf Raises
+          measurementType: 1
+          tutorialVideo: {fileID: 32900000, guid: 7964910fd78ccda45a3dd96ca510bc89, type: 3}
+          reps: 15
+          durationSeconds: 0
+          restAfterExercise: 45
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: Left Side Quad Stretch
+          measurementType: 0
+          tutorialVideo: {fileID: 32900000, guid: 67f44a6d4d6c73c4893b686d525f1cd7, type: 3}
+          reps: 0
+          durationSeconds: 20
+          restAfterExercise: 0
+          instructions: []
+  - title: Endurance Training Plan
+    goal: Build cardiovascular and muscular endurance through high-rep bodyweight
+      exercises and dynamic movements
+    equipment:
+    - Bodyweight
+    - Resistance Bands
+    excludedCategory: 0
+    sessions:
+    - name: Full-Body Endurance Boost
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Lower Body Endurance
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Upper Body & Core Stamina
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: High-Intensity Endurance Challenge
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Maximum Endurance Challenge
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+  - title: Mobility & Flexibility Training Plan
+    goal: Improve joint mobility, flexibility, and reduce stiffness
+    equipment:
+    - Yoga Mat
+    - Resistance Bands
+    excludedCategory: 0
+    sessions:
+    - name: Full-Body Mobility & Flexibility
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Lower Body Mobility & Flexibility
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Upper Body Mobility & Flexibility
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Dynamic Mobility Flow
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Full-Body Mobility & Stretch Challenge
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+  - title: Posture Correction Training Plan
+    goal: Improve spinal alignment, strengthen postural muscles, and reduce pain
+      from poor posture
+    equipment:
+    - Yoga Mat
+    - Resistance Bands
+    - Foam Roller
+    excludedCategory: 0
+    sessions:
+    - name: Foundational Postural Alignment
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Forward Head Posture Correction
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Rounded Shoulders & Upper Back Strength
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Lower Back & Core for Posture Stability
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+    - name: Full-Body Posture Reset & Maintenance
+      sessionPoints: 20
+      currentExerciseIndex: 0
+      isReadyToBeShown: 0
+      warmupSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      mainSegment:
+        totalDuration: 35
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+      cooldownSegment:
+        totalDuration: 5
+        exercises:
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []
+        - name: 
+          measurementType: 0
+          tutorialVideo: {fileID: 0}
+          reps: 0
+          durationSeconds: 0
+          restAfterExercise: 0
+          instructions: []

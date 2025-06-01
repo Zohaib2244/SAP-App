@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 370381ee24bb1f2449ee7855d75d098b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2760346933890669751
+    second: _ Hands _ More Hands _ Half a Leg_0
+  - first:
+      213: -8245620843948125039
+    second: _ Hands _ More Hands _ Half a Leg_1
+  - first:
+      213: -3162177148725175128
+    second: _ Hands _ More Hands _ Half a Leg_2
+  - first:
+      213: -8828028340807818404
+    second: _ Hands _ More Hands _ Half a Leg_3
+  - first:
+      213: 1140623248275794308
+    second: _ Hands _ More Hands _ Half a Leg_4
+  - first:
+      213: 9166937071802377972
+    second: _ Hands _ More Hands _ Half a Leg_5
+  - first:
+      213: -8738181640130022049
+    second: _ Hands _ More Hands _ Half a Leg_6
+  - first:
+      213: 4127350537738364243
+    second: _ Hands _ More Hands _ Half a Leg_7
+  - first:
+      213: -4412404044658060106
+    second: _ Hands _ More Hands _ Half a Leg_8
+  - first:
+      213: 8879663555979339494
+    second: _ Hands _ More Hands _ Half a Leg_9
+  - first:
+      213: -3562096674378160333
+    second: _ Hands _ More Hands _ Half a Leg_10
+  - first:
+      213: 3562304202349131149
+    second: _ Hands _ More Hands _ Half a Leg_11
+  - first:
+      213: -6618996755682186470
+    second: _ Hands _ More Hands _ Half a Leg_12
+  - first:
+      213: -3256296562352691362
+    second: _ Hands _ More Hands _ Half a Leg_13
+  - first:
+      213: 1009442952634536231
+    second: _ Hands _ More Hands _ Half a Leg_14
+  - first:
+      213: -524484172708172625
+    second: _ Hands _ More Hands _ Half a Leg_15
+  - first:
+      213: 7416158777080394504
+    second: _ Hands _ More Hands _ Half a Leg_16
+  - first:
+      213: 2295848678933145549
+    second: _ Hands _ More Hands _ Half a Leg_17
+  - first:
+      213: 8215935373261478141
+    second: _ Hands _ More Hands _ Half a Leg_18
+  - first:
+      213: 5984865615030966032
+    second: _ Hands _ More Hands _ Half a Leg_19
+  - first:
+      213: -7701237087452894998
+    second: _ Hands _ More Hands _ Half a Leg_20
+  - first:
+      213: 453456356478345500
+    second: _ Hands _ More Hands _ Half a Leg_21
+  - first:
+      213: -172491478515034387
+    second: _ Hands _ More Hands _ Half a Leg_22
+  - first:
+      213: -5031555247503459565
+    second: _ Hands _ More Hands _ Half a Leg_23
+  - first:
+      213: 6238779058981087132
+    second: _ Hands _ More Hands _ Half a Leg_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943ab9ca61741b9d0800000000000000
+      internalID: -2760346933890669751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 89
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945ae3978ba19d80800000000000000
+      internalID: -8245620843948125039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 89
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acd06d13a0bd14d0800000000000000
+      internalID: -3162177148725175128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 89
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a1173ffa8c7580800000000000000
+      internalID: -8828028340807818404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 89
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489e7001dce44df00800000000000000
+      internalID: 1140623248275794308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 89
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6e323c2b0873f70800000000000000
+      internalID: 9166937071802377972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55b53d581ebbb680800000000000000
+      internalID: -8738181640130022049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 47
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355a969427b474930800000000000000
+      internalID: 4127350537738364243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 47
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d8a836edf3c2c0800000000000000
+      internalID: -4412404044658060106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6612b25f6ea3b70800000000000000
+      internalID: 8879663555979339494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 47
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337e61c82f3e09ec0800000000000000
+      internalID: -3562096674378160333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 47
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85b6e25cc8df6130800000000000000
+      internalID: 3562304202349131149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ba91805899424a0800000000000000
+      internalID: -6618996755682186470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5764a5778f4fc2d0800000000000000
+      internalID: -3256296562352691362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 47
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7219dc46403420e00800000000000000
+      internalID: 1009442952634536231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac2a6b7c68a8b8f0800000000000000
+      internalID: -524484172708172625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803b5c18d1d7be660800000000000000
+      internalID: 7416158777080394504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc72cd5a53e7cdf10800000000000000
+      internalID: 2295848678933145549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df811dc21bdd40270800000000000000
+      internalID: 8215935373261478141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017de5451938e0350800000000000000
+      internalID: 5984865615030966032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 5
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae86e4ffba5bf1590800000000000000
+      internalID: -7701237087452894998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 5
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11e80957200b4600800000000000000
+      internalID: 453456356478345500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 5
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de654580aef2b9df0800000000000000
+      internalID: -172491478515034387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bbdc429235c2ab0800000000000000
+      internalID: -5031555247503459565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ Hands _ More Hands _ Half a Leg_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97a6baef78949650800000000000000
+      internalID: 6238779058981087132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

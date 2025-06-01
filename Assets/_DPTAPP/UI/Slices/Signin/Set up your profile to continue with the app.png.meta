@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: f76ccfc6c3827e44083b764b2f493349
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1407846896459681263
+    second: Set up your profile to continue with the app_0
+  - first:
+      213: 4123807146907898335
+    second: Set up your profile to continue with the app_1
+  - first:
+      213: 127458182607504279
+    second: Set up your profile to continue with the app_2
+  - first:
+      213: -3080059116760527728
+    second: Set up your profile to continue with the app_3
+  - first:
+      213: 4726557300479719928
+    second: Set up your profile to continue with the app_4
+  - first:
+      213: -6251297978441627195
+    second: Set up your profile to continue with the app_5
+  - first:
+      213: -5611034486034686458
+    second: Set up your profile to continue with the app_6
+  - first:
+      213: 5279931713266536580
+    second: Set up your profile to continue with the app_7
+  - first:
+      213: 3141275375689996487
+    second: Set up your profile to continue with the app_8
+  - first:
+      213: -2532826690878795584
+    second: Set up your profile to continue with the app_9
+  - first:
+      213: 5993077752416803170
+    second: Set up your profile to continue with the app_10
+  - first:
+      213: -4194776295964919312
+    second: Set up your profile to continue with the app_11
+  - first:
+      213: 8466050758134351099
+    second: Set up your profile to continue with the app_12
+  - first:
+      213: 8034103733215258619
+    second: Set up your profile to continue with the app_13
+  - first:
+      213: -1599137832303197442
+    second: Set up your profile to continue with the app_14
+  - first:
+      213: -323257785866374086
+    second: Set up your profile to continue with the app_15
+  - first:
+      213: 1318319317800635465
+    second: Set up your profile to continue with the app_16
+  - first:
+      213: 8335007237676086599
+    second: Set up your profile to continue with the app_17
+  - first:
+      213: 7984829338404670463
+    second: Set up your profile to continue with the app_18
+  - first:
+      213: 3419130255158571041
+    second: Set up your profile to continue with the app_19
+  - first:
+      213: -8990219532480980424
+    second: Set up your profile to continue with the app_20
+  - first:
+      213: -7191478058236917186
+    second: Set up your profile to continue with the app_21
+  - first:
+      213: 2346423905724785446
+    second: Set up your profile to continue with the app_22
+  - first:
+      213: -6072034955479750342
+    second: Set up your profile to continue with the app_23
+  - first:
+      213: -4835424251111118341
+    second: Set up your profile to continue with the app_24
+  - first:
+      213: -4458109786093113884
+    second: Set up your profile to continue with the app_25
+  - first:
+      213: 8121329165474008891
+    second: Set up your profile to continue with the app_26
+  - first:
+      213: 7616174163804324737
+    second: Set up your profile to continue with the app_27
+  - first:
+      213: -8256874646873272528
+    second: Set up your profile to continue with the app_28
+  - first:
+      213: 4779736734328817582
+    second: Set up your profile to continue with the app_29
+  - first:
+      213: 53246813570859977
+    second: Set up your profile to continue with the app_30
+  - first:
+      213: 2732144857208362560
+    second: Set up your profile to continue with the app_31
+  - first:
+      213: -2895203547307160025
+    second: Set up your profile to continue with the app_32
+  - first:
+      213: -2184037617141209035
+    second: Set up your profile to continue with the app_33
+  - first:
+      213: 4328862774055347933
+    second: Set up your profile to continue with the app_34
+  - first:
+      213: 5311437869998005909
+    second: Set up your profile to continue with the app_35
+  - first:
+      213: -3754022383597920671
+    second: Set up your profile to continue with the app_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112726ee4b2567ce0800000000000000
+      internalID: -1407846896459681263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 54
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd199a150c4ba3930800000000000000
+      internalID: 4123807146907898335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 54
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7938902ba82d4c100800000000000000
+      internalID: 127458182607504279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 54
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c094a5d8e6145d0800000000000000
+      internalID: -3080059116760527728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 54
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f97f9982da189140800000000000000
+      internalID: 4726557300479719928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_5
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 54
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c98ed10c9dee39a0800000000000000
+      internalID: -6251297978441627195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e9f6d0dd99122b0800000000000000
+      internalID: -5611034486034686458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480529f3be5164940800000000000000
+      internalID: 5279931713266536580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_8
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 54
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c81fad9f4d089b20800000000000000
+      internalID: 3141275375689996487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 54
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c09a8c4b8799dcd0800000000000000
+      internalID: -2532826690878795584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 54
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26999109670bb2350800000000000000
+      internalID: 5993077752416803170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 54
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f938c60f2929c5c0800000000000000
+      internalID: -4194776295964919312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 44
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf446093f447d7570800000000000000
+      internalID: 8466050758134351099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 44
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf76fe267cede7f60800000000000000
+      internalID: 8034103733215258619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20ea63d98bec9e0800000000000000
+      internalID: -1599137832303197442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 54
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a343e86a1ce838bf0800000000000000
+      internalID: -323257785866374086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 54
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cca0e4f6c9b4210800000000000000
+      internalID: 1318319317800635465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 44
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7453ef10ce4eba370800000000000000
+      internalID: 8335007237676086599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 54
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb4ab35affcfce60800000000000000
+      internalID: 7984829338404670463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 54
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120748b0ad0337f20800000000000000
+      internalID: 3419130255158571041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 54
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a51b9a7f25c3380800000000000000
+      internalID: -8990219532480980424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 54
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ac5c0eeccb23c90800000000000000
+      internalID: -7191478058236917186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 54
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623e5314c1c209020800000000000000
+      internalID: 2346423905724785446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 54
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39efd6016ccbbba0800000000000000
+      internalID: -6072034955479750342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 54
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf96636434f15ecb0800000000000000
+      internalID: -4835424251111118341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_25
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 54
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed2a3605cc9122c0800000000000000
+      internalID: -4458109786093113884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_26
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 54
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f091ce8d1c4b070800000000000000
+      internalID: 8121329165474008891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_27
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 54
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183801dbc0612b960800000000000000
+      internalID: 7616174163804324737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_28
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 54
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f80366140b96d80800000000000000
+      internalID: -8256874646873272528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_29
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 54
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea70e895c39055240800000000000000
+      internalID: 4779736734328817582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_30
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 54
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c30050e1bb2db000800000000000000
+      internalID: 53246813570859977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04690d8a5478ae520800000000000000
+      internalID: 2732144857208362560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 9
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e4e4296bb22d7d0800000000000000
+      internalID: -2895203547307160025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 9
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5382536db5db0b1e0800000000000000
+      internalID: -2184037617141209035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd62bf8f1c5331c30800000000000000
+      internalID: 4328862774055347933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ed9cff99406b940800000000000000
+      internalID: 5311437869998005909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set up your profile to continue with the app_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ed7c2288807ebc0800000000000000
+      internalID: -3754022383597920671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Set up your profile to continue with the app_0: -1407846896459681263
+      Set up your profile to continue with the app_1: 4123807146907898335
+      Set up your profile to continue with the app_10: 5993077752416803170
+      Set up your profile to continue with the app_11: -4194776295964919312
+      Set up your profile to continue with the app_12: 8466050758134351099
+      Set up your profile to continue with the app_13: 8034103733215258619
+      Set up your profile to continue with the app_14: -1599137832303197442
+      Set up your profile to continue with the app_15: -323257785866374086
+      Set up your profile to continue with the app_16: 1318319317800635465
+      Set up your profile to continue with the app_17: 8335007237676086599
+      Set up your profile to continue with the app_18: 7984829338404670463
+      Set up your profile to continue with the app_19: 3419130255158571041
+      Set up your profile to continue with the app_2: 127458182607504279
+      Set up your profile to continue with the app_20: -8990219532480980424
+      Set up your profile to continue with the app_21: -7191478058236917186
+      Set up your profile to continue with the app_22: 2346423905724785446
+      Set up your profile to continue with the app_23: -6072034955479750342
+      Set up your profile to continue with the app_24: -4835424251111118341
+      Set up your profile to continue with the app_25: -4458109786093113884
+      Set up your profile to continue with the app_26: 8121329165474008891
+      Set up your profile to continue with the app_27: 7616174163804324737
+      Set up your profile to continue with the app_28: -8256874646873272528
+      Set up your profile to continue with the app_29: 4779736734328817582
+      Set up your profile to continue with the app_3: -3080059116760527728
+      Set up your profile to continue with the app_30: 53246813570859977
+      Set up your profile to continue with the app_31: 2732144857208362560
+      Set up your profile to continue with the app_32: -2895203547307160025
+      Set up your profile to continue with the app_33: -2184037617141209035
+      Set up your profile to continue with the app_34: 4328862774055347933
+      Set up your profile to continue with the app_35: 5311437869998005909
+      Set up your profile to continue with the app_36: -3754022383597920671
+      Set up your profile to continue with the app_4: 4726557300479719928
+      Set up your profile to continue with the app_5: -6251297978441627195
+      Set up your profile to continue with the app_6: -5611034486034686458
+      Set up your profile to continue with the app_7: 5279931713266536580
+      Set up your profile to continue with the app_8: 3141275375689996487
+      Set up your profile to continue with the app_9: -2532826690878795584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

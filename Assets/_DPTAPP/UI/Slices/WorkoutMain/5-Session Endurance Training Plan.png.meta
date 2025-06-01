@@ -1,0 +1,981 @@
+fileFormatVersion: 2
+guid: 0617be8ad485e9840a300c0f1ad62ba2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1420018504873136824
+    second: 5-Session Endurance Training Plan_0
+  - first:
+      213: -2827680194531069591
+    second: 5-Session Endurance Training Plan_1
+  - first:
+      213: -6460614201883215075
+    second: 5-Session Endurance Training Plan_2
+  - first:
+      213: 6420474456365995465
+    second: 5-Session Endurance Training Plan_3
+  - first:
+      213: -5545655712920829399
+    second: 5-Session Endurance Training Plan_4
+  - first:
+      213: 6269273712661208817
+    second: 5-Session Endurance Training Plan_5
+  - first:
+      213: -1608601785995988121
+    second: 5-Session Endurance Training Plan_6
+  - first:
+      213: 6565111544359830169
+    second: 5-Session Endurance Training Plan_7
+  - first:
+      213: -353615093222374822
+    second: 5-Session Endurance Training Plan_8
+  - first:
+      213: -5616141879543049591
+    second: 5-Session Endurance Training Plan_9
+  - first:
+      213: 6129458143666321222
+    second: 5-Session Endurance Training Plan_10
+  - first:
+      213: 8525466202350584135
+    second: 5-Session Endurance Training Plan_11
+  - first:
+      213: 6934392666787212425
+    second: 5-Session Endurance Training Plan_12
+  - first:
+      213: -9165940236384897171
+    second: 5-Session Endurance Training Plan_13
+  - first:
+      213: 4412682975641842759
+    second: 5-Session Endurance Training Plan_14
+  - first:
+      213: -6901423752594072709
+    second: 5-Session Endurance Training Plan_15
+  - first:
+      213: -754838344553917137
+    second: 5-Session Endurance Training Plan_16
+  - first:
+      213: 320082528909234482
+    second: 5-Session Endurance Training Plan_17
+  - first:
+      213: -1287140054095166640
+    second: 5-Session Endurance Training Plan_18
+  - first:
+      213: -2952794062830590667
+    second: 5-Session Endurance Training Plan_19
+  - first:
+      213: -4290490179511392416
+    second: 5-Session Endurance Training Plan_20
+  - first:
+      213: 399226898399065923
+    second: 5-Session Endurance Training Plan_21
+  - first:
+      213: -2193168272318212182
+    second: 5-Session Endurance Training Plan_22
+  - first:
+      213: 5055251410416119810
+    second: 5-Session Endurance Training Plan_23
+  - first:
+      213: -2401980834775669315
+    second: 5-Session Endurance Training Plan_24
+  - first:
+      213: -9172602030334595644
+    second: 5-Session Endurance Training Plan_25
+  - first:
+      213: -7206790586972962503
+    second: 5-Session Endurance Training Plan_26
+  - first:
+      213: 8315185624052257141
+    second: 5-Session Endurance Training Plan_27
+  - first:
+      213: -8967881416971310637
+    second: 5-Session Endurance Training Plan_28
+  - first:
+      213: 7263875889758418695
+    second: 5-Session Endurance Training Plan_29
+  - first:
+      213: -8499563983389818944
+    second: 5-Session Endurance Training Plan_30
+  - first:
+      213: 9137230188819971308
+    second: 5-Session Endurance Training Plan_31
+  - first:
+      213: 321914621506921902
+    second: 5-Session Endurance Training Plan_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2d17d7e4be4b310800000000000000
+      internalID: 1420018504873136824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961719248df02c8d0800000000000000
+      internalID: -2827680194531069591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b38e9fc994756a0800000000000000
+      internalID: -6460614201883215075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c51a2d308b1a1950800000000000000
+      internalID: 6420474456365995465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9220db0e28fd903b0800000000000000
+      internalID: -5545655712920829399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe9dd2c93fe00750800000000000000
+      internalID: 6269273712661208817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76376a8c2391da9e0800000000000000
+      internalID: -1608601785995988121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99242688a26fb1b50800000000000000
+      internalID: 6565111544359830169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 7
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52834d32f4b71bf0800000000000000
+      internalID: -353615093222374822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98254a557b47f02b0800000000000000
+      internalID: -5616141879543049591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 7
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6473bd6d4b5301550800000000000000
+      internalID: 6129458143666321222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 7
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74184b7575a805670800000000000000
+      internalID: 8525466202350584135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_12
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 7
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cece4f369eb3060800000000000000
+      internalID: 6934392666787212425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6771d11be90cc080800000000000000
+      internalID: -9165940236384897171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 7
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744bb8579cffc3d30800000000000000
+      internalID: 4412682975641842759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 7
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bdf2e89a73930a0800000000000000
+      internalID: -6901423752594072709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25150266864685f0800000000000000
+      internalID: -754838344553917137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231917a3d59217400800000000000000
+      internalID: 320082528909234482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_18
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 7
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0530b7bb0f8232ee0800000000000000
+      internalID: -1287140054095166640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 7
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535a916c1719507d0800000000000000
+      internalID: -2952794062830590667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 7
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067ebe9e9ed1574c0800000000000000
+      internalID: -4290490179511392416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3477bd7bfb65a8500800000000000000
+      internalID: 399226898399065923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 7
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7d0d3831d4091e0800000000000000
+      internalID: -2193168272318212182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_23
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 7
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2003528bf5cd72640800000000000000
+      internalID: 5055251410416119810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db566e138237aaed0800000000000000
+      internalID: -2401980834775669315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_25
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 7
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd21eb4d0f54b080800000000000000
+      internalID: -9172602030334595644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93109d4f4265cfb90800000000000000
+      internalID: -7206790586972962503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571d113f449756370800000000000000
+      internalID: 8315185624052257141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_28
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 7
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d929997d5fab8380800000000000000
+      internalID: -8967881416971310637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 7
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7073395d2a87ec460800000000000000
+      internalID: 7263875889758418695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_30
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 7
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf7858f69b7b0a80800000000000000
+      internalID: -8499563983389818944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_31
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 7
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecf6931276fdce70800000000000000
+      internalID: 9137230188819971308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Session Endurance Training Plan_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ace684aba77400800000000000000
+      internalID: 321914621506921902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

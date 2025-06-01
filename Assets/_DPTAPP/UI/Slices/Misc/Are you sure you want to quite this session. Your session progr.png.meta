@@ -1,0 +1,1906 @@
+fileFormatVersion: 2
+guid: 50c8f5b6d6e6ba544bd49613fa89be87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3190503948530429307
+    second: Are you sure you want to quite this session. Your session progr_0
+  - first:
+      213: 8595555429247982758
+    second: Are you sure you want to quite this session. Your session progr_1
+  - first:
+      213: 9148618252235620055
+    second: Are you sure you want to quite this session. Your session progr_2
+  - first:
+      213: -4152579930853961450
+    second: Are you sure you want to quite this session. Your session progr_3
+  - first:
+      213: 7329391865254569102
+    second: Are you sure you want to quite this session. Your session progr_4
+  - first:
+      213: 593789395058630525
+    second: Are you sure you want to quite this session. Your session progr_5
+  - first:
+      213: -7612694389962930171
+    second: Are you sure you want to quite this session. Your session progr_6
+  - first:
+      213: -150250295401866891
+    second: Are you sure you want to quite this session. Your session progr_7
+  - first:
+      213: -700934216874806516
+    second: Are you sure you want to quite this session. Your session progr_8
+  - first:
+      213: 2086554231996364433
+    second: Are you sure you want to quite this session. Your session progr_9
+  - first:
+      213: 199869043828938903
+    second: Are you sure you want to quite this session. Your session progr_10
+  - first:
+      213: 3953767273492678489
+    second: Are you sure you want to quite this session. Your session progr_11
+  - first:
+      213: 6037413372516410701
+    second: Are you sure you want to quite this session. Your session progr_12
+  - first:
+      213: 8971773876979749170
+    second: Are you sure you want to quite this session. Your session progr_13
+  - first:
+      213: 1922048552078071312
+    second: Are you sure you want to quite this session. Your session progr_14
+  - first:
+      213: -96009278840598
+    second: Are you sure you want to quite this session. Your session progr_15
+  - first:
+      213: 4251181713821201042
+    second: Are you sure you want to quite this session. Your session progr_16
+  - first:
+      213: 7615562551664988095
+    second: Are you sure you want to quite this session. Your session progr_17
+  - first:
+      213: -2246466268498013092
+    second: Are you sure you want to quite this session. Your session progr_18
+  - first:
+      213: -3579796252941680021
+    second: Are you sure you want to quite this session. Your session progr_19
+  - first:
+      213: -4746998081784644444
+    second: Are you sure you want to quite this session. Your session progr_20
+  - first:
+      213: 5855543639261297587
+    second: Are you sure you want to quite this session. Your session progr_21
+  - first:
+      213: -6608387635268544607
+    second: Are you sure you want to quite this session. Your session progr_22
+  - first:
+      213: -2972188599730752502
+    second: Are you sure you want to quite this session. Your session progr_23
+  - first:
+      213: -1860090960865538214
+    second: Are you sure you want to quite this session. Your session progr_24
+  - first:
+      213: 1128510599790462989
+    second: Are you sure you want to quite this session. Your session progr_25
+  - first:
+      213: 6827533777193009697
+    second: Are you sure you want to quite this session. Your session progr_26
+  - first:
+      213: 5111246434865695027
+    second: Are you sure you want to quite this session. Your session progr_27
+  - first:
+      213: -4231113285732939473
+    second: Are you sure you want to quite this session. Your session progr_28
+  - first:
+      213: 4393985008454458979
+    second: Are you sure you want to quite this session. Your session progr_29
+  - first:
+      213: 3370638448108587586
+    second: Are you sure you want to quite this session. Your session progr_30
+  - first:
+      213: 7726104836734090297
+    second: Are you sure you want to quite this session. Your session progr_31
+  - first:
+      213: -1788406064402898909
+    second: Are you sure you want to quite this session. Your session progr_32
+  - first:
+      213: -8467814839244797264
+    second: Are you sure you want to quite this session. Your session progr_33
+  - first:
+      213: 3715927835280936466
+    second: Are you sure you want to quite this session. Your session progr_34
+  - first:
+      213: 886009345180377345
+    second: Are you sure you want to quite this session. Your session progr_35
+  - first:
+      213: 2414343899724339569
+    second: Are you sure you want to quite this session. Your session progr_36
+  - first:
+      213: 2204507302772751339
+    second: Are you sure you want to quite this session. Your session progr_37
+  - first:
+      213: 1755082608416040931
+    second: Are you sure you want to quite this session. Your session progr_38
+  - first:
+      213: -7588706260624058608
+    second: Are you sure you want to quite this session. Your session progr_39
+  - first:
+      213: -2249573119234840048
+    second: Are you sure you want to quite this session. Your session progr_40
+  - first:
+      213: 7256934943241701420
+    second: Are you sure you want to quite this session. Your session progr_41
+  - first:
+      213: 6164799444525005065
+    second: Are you sure you want to quite this session. Your session progr_42
+  - first:
+      213: 1553753099534396195
+    second: Are you sure you want to quite this session. Your session progr_43
+  - first:
+      213: -7097380159525373244
+    second: Are you sure you want to quite this session. Your session progr_44
+  - first:
+      213: -3856707402742320120
+    second: Are you sure you want to quite this session. Your session progr_45
+  - first:
+      213: -8578580385839742701
+    second: Are you sure you want to quite this session. Your session progr_46
+  - first:
+      213: 8803846408101947888
+    second: Are you sure you want to quite this session. Your session progr_47
+  - first:
+      213: 4365582480562997653
+    second: Are you sure you want to quite this session. Your session progr_48
+  - first:
+      213: -3233784830859295673
+    second: Are you sure you want to quite this session. Your session progr_49
+  - first:
+      213: -7525044203116854190
+    second: Are you sure you want to quite this session. Your session progr_50
+  - first:
+      213: 652743644943397996
+    second: Are you sure you want to quite this session. Your session progr_51
+  - first:
+      213: -5501552355930242134
+    second: Are you sure you want to quite this session. Your session progr_52
+  - first:
+      213: -9084522240150864101
+    second: Are you sure you want to quite this session. Your session progr_53
+  - first:
+      213: -5538232589761033585
+    second: Are you sure you want to quite this session. Your session progr_54
+  - first:
+      213: 237238946497192048
+    second: Are you sure you want to quite this session. Your session progr_55
+  - first:
+      213: 7715386891080289995
+    second: Are you sure you want to quite this session. Your session progr_56
+  - first:
+      213: 5931492699369012080
+    second: Are you sure you want to quite this session. Your session progr_57
+  - first:
+      213: 935018238991880096
+    second: Are you sure you want to quite this session. Your session progr_58
+  - first:
+      213: 5901471936715062850
+    second: Are you sure you want to quite this session. Your session progr_59
+  - first:
+      213: 2849435011344205381
+    second: Are you sure you want to quite this session. Your session progr_60
+  - first:
+      213: 7672524764450742271
+    second: Are you sure you want to quite this session. Your session progr_61
+  - first:
+      213: 490061421310943416
+    second: Are you sure you want to quite this session. Your session progr_62
+  - first:
+      213: 501089879128065826
+    second: Are you sure you want to quite this session. Your session progr_63
+  - first:
+      213: 24029254894857694
+    second: Are you sure you want to quite this session. Your session progr_64
+  - first:
+      213: 5950958788158829715
+    second: Are you sure you want to quite this session. Your session progr_65
+  - first:
+      213: -6165611937539632384
+    second: Are you sure you want to quite this session. Your session progr_66
+  - first:
+      213: -2212963043554558146
+    second: Are you sure you want to quite this session. Your session progr_67
+  - first:
+      213: -7372742570403680054
+    second: Are you sure you want to quite this session. Your session progr_68
+  - first:
+      213: 3551854832398098907
+    second: Are you sure you want to quite this session. Your session progr_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582dc55109d09b3d0800000000000000
+      internalID: -3190503948530429307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 54
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac91872f1c894770800000000000000
+      internalID: 8595555429247982758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 54
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deb82634db66fe70800000000000000
+      internalID: 9148618252235620055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 76
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6119800ed821f56c0800000000000000
+      internalID: -4152579930853961450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 54
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84e224911b37b560800000000000000
+      internalID: 7329391865254569102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_5
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 54
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f1ddb0f409d3800800000000000000
+      internalID: 593789395058630525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 54
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50886ae39c64a5690800000000000000
+      internalID: -7612694389962930171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 76
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5799c2307243aedf0800000000000000
+      internalID: -150250295401866891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 76
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03b2402b08c546f0800000000000000
+      internalID: -700934216874806516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 54
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1963bbad40ee4fc10800000000000000
+      internalID: 2086554231996364433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 54
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798550f16d316c200800000000000000
+      internalID: 199869043828938903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 47
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9578815236a9ed630800000000000000
+      internalID: 3953767273492678489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45a807897339c350800000000000000
+      internalID: 6037413372516410701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231d18e7ec4228c70800000000000000
+      internalID: 8971773876979749170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016daa389fc7caa10800000000000000
+      internalID: 1922048552078071312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae02a091ea8affff0800000000000000
+      internalID: -96009278840598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 54
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f2f7be3b3ffa30800000000000000
+      internalID: 4251181713821201042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 54
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf42c0bac9efa960800000000000000
+      internalID: 7615562551664988095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 47
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c545742c4d2f2d0e0800000000000000
+      internalID: -2246466268498013092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 54
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6203274642025ec0800000000000000
+      internalID: -3579796252941680021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acf3c135664f1eb0800000000000000
+      internalID: -4746998081784644444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 54
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbb7f87ae1134150800000000000000
+      internalID: 5855543639261297587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 54
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a71cbd557a4a44a0800000000000000
+      internalID: -6608387635268544607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a043593473aa0c6d0800000000000000
+      internalID: -2972188599730752502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 54
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fc1b35021af26e0800000000000000
+      internalID: -1860090960865538214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_25
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 47
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0806c1596649af00800000000000000
+      internalID: 1128510599790462989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1220299ebc540ce50800000000000000
+      internalID: 6827533777193009697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 54
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339c6ad4d8bcee640800000000000000
+      internalID: 5111246434865695027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 54
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29c37f42e01845c0800000000000000
+      internalID: -4231113285732939473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_29
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 54
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ed159b5129afc30800000000000000
+      internalID: 4393985008454458979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_30
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a49c56fc9e6ce20800000000000000
+      internalID: 3370638448108587586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_31
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c76f21a63a83b60800000000000000
+      internalID: 7726104836734090297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_32
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 54
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3206c19e82e4e27e0800000000000000
+      internalID: -1788406064402898909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_33
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba4803a4474c7a80800000000000000
+      internalID: -8467814839244797264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_34
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e08e8ada0a19330800000000000000
+      internalID: 3715927835280936466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_35
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 54
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101272f1eccbb4c00800000000000000
+      internalID: 886009345180377345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_36
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 54
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17953bc2cf8718120800000000000000
+      internalID: 2414343899724339569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_37
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 54
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb368e36bbf79e10800000000000000
+      internalID: 2204507302772751339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_38
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7aa12655e4b5810800000000000000
+      internalID: 1755082608416040931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01758b6dcdf7fa690800000000000000
+      internalID: -7588706260624058608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 28
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a6db3ba29e7c0e0800000000000000
+      internalID: -2249573119234840048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_41
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 28
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c288a0ac1efc5b460800000000000000
+      internalID: 7256934943241701420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 6
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909307aae64cd8550800000000000000
+      internalID: 6164799444525005065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_43
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 6
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32be86e363a009510800000000000000
+      internalID: 1553753099534396195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_44
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 6
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cab593395a018d90800000000000000
+      internalID: -7097380159525373244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804bce80d093a7ac0800000000000000
+      internalID: -3856707402742320120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_46
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 6
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31183e02792c2f880800000000000000
+      internalID: -8578580385839742701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9e304d9ab8d2a70800000000000000
+      internalID: 8803846408101947888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59940afd22aa59c30800000000000000
+      internalID: 4365582480562997653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c59464d94f13d0800000000000000
+      internalID: -3233784830859295673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_50
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2548b1aaa2ca19790800000000000000
+      internalID: -7525044203116854190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64be3ef2e20f0900800000000000000
+      internalID: 652743644943397996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3809fd74f86a3b0800000000000000
+      internalID: -5501552355930242134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ffba9872b4de180800000000000000
+      internalID: -9084522240150864101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_54
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 6
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a4dcb6dce3423b0800000000000000
+      internalID: -5538232589761033585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0706adc9097da4300800000000000000
+      internalID: 237238946497192048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcecb83ef7f821b60800000000000000
+      internalID: 7715386891080289995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_57
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b76b50f25e05250800000000000000
+      internalID: 5931492699369012080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_58
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 6
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af4f99622ad9fc00800000000000000
+      internalID: 935018238991880096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e76d7857d36e150800000000000000
+      internalID: 5901471936715062850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_60
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5468bbdbb0a3b8720800000000000000
+      internalID: 2849435011344205381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_61
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 6
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff597b5f984a7a60800000000000000
+      internalID: 7672524764450742271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0ac57244c0dc600800000000000000
+      internalID: 490061421310943416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_63
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227c8f5179a34f600800000000000000
+      internalID: 501089879128065826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_64
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edda932ea7e555000800000000000000
+      internalID: 24029254894857694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_65
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 6
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39432310d7d069250800000000000000
+      internalID: 5950958788158829715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_66
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 6
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003da001c985f6aa0800000000000000
+      internalID: -6165611937539632384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_67
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ffcdf26d9f941e0800000000000000
+      internalID: -2212963043554558146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_68
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac030b6d1b1cea990800000000000000
+      internalID: -7372742570403680054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want to quite this session. Your session progr_69
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1e7dac629ba4130800000000000000
+      internalID: 3551854832398098907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

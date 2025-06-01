@@ -1,0 +1,1031 @@
+fileFormatVersion: 2
+guid: e20dc278b9e127944865c96bbdecf842
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8007640063409701795
+    second: Conditions Treated by Physiotherapy__0
+  - first:
+      213: 342079784653448978
+    second: Conditions Treated by Physiotherapy__1
+  - first:
+      213: 452101800848207997
+    second: Conditions Treated by Physiotherapy__2
+  - first:
+      213: 4165799164271376172
+    second: Conditions Treated by Physiotherapy__3
+  - first:
+      213: 8183008478431597182
+    second: Conditions Treated by Physiotherapy__4
+  - first:
+      213: -7583914279100260602
+    second: Conditions Treated by Physiotherapy__5
+  - first:
+      213: 1192647524479308624
+    second: Conditions Treated by Physiotherapy__6
+  - first:
+      213: -5597710880525720665
+    second: Conditions Treated by Physiotherapy__7
+  - first:
+      213: -6669518891097890000
+    second: Conditions Treated by Physiotherapy__8
+  - first:
+      213: -8527344519521023686
+    second: Conditions Treated by Physiotherapy__9
+  - first:
+      213: 8733294699490197803
+    second: Conditions Treated by Physiotherapy__10
+  - first:
+      213: -5598434656354847631
+    second: Conditions Treated by Physiotherapy__11
+  - first:
+      213: 2597142231749592585
+    second: Conditions Treated by Physiotherapy__12
+  - first:
+      213: 1681261378063570412
+    second: Conditions Treated by Physiotherapy__13
+  - first:
+      213: 5078982950665548244
+    second: Conditions Treated by Physiotherapy__14
+  - first:
+      213: -1624856160436404305
+    second: Conditions Treated by Physiotherapy__15
+  - first:
+      213: -729281955190773948
+    second: Conditions Treated by Physiotherapy__16
+  - first:
+      213: 9065648673054641398
+    second: Conditions Treated by Physiotherapy__17
+  - first:
+      213: 7948554423975882226
+    second: Conditions Treated by Physiotherapy__18
+  - first:
+      213: -5017980159513531254
+    second: Conditions Treated by Physiotherapy__19
+  - first:
+      213: 1904142758694302028
+    second: Conditions Treated by Physiotherapy__20
+  - first:
+      213: 8623507146642074576
+    second: Conditions Treated by Physiotherapy__21
+  - first:
+      213: 7911457819997850608
+    second: Conditions Treated by Physiotherapy__22
+  - first:
+      213: 1813189442895165257
+    second: Conditions Treated by Physiotherapy__23
+  - first:
+      213: -600842583862259086
+    second: Conditions Treated by Physiotherapy__24
+  - first:
+      213: -427999060282875006
+    second: Conditions Treated by Physiotherapy__25
+  - first:
+      213: 8717925077486518642
+    second: Conditions Treated by Physiotherapy__26
+  - first:
+      213: -4719643334603503543
+    second: Conditions Treated by Physiotherapy__27
+  - first:
+      213: -5580444438790719158
+    second: Conditions Treated by Physiotherapy__28
+  - first:
+      213: 2534531275698028307
+    second: Conditions Treated by Physiotherapy__29
+  - first:
+      213: -2299442719875281353
+    second: Conditions Treated by Physiotherapy__30
+  - first:
+      213: 1624171269119063998
+    second: Conditions Treated by Physiotherapy__31
+  - first:
+      213: -1131991338672150463
+    second: Conditions Treated by Physiotherapy__32
+  - first:
+      213: -8920050991561610231
+    second: Conditions Treated by Physiotherapy__33
+  - first:
+      213: -631703353184908139
+    second: Conditions Treated by Physiotherapy__34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3c8bc163ad02f60800000000000000
+      internalID: 8007640063409701795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 117
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2176c1170cf4fb400800000000000000
+      internalID: 342079784653448978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 171
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d703fd94130364600800000000000000
+      internalID: 452101800848207997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 117
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27b300c444efc930800000000000000
+      internalID: 4165799164271376172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 171
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72dcee0bd2ef8170800000000000000
+      internalID: 8183008478431597182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 117
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f573bf42680c690800000000000000
+      internalID: -7583914279100260602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 117
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05396d6ca922d8010800000000000000
+      internalID: 1192647524479308624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__7
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 117
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3ece2bc9fe052b0800000000000000
+      internalID: -5597710880525720665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 117
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0336a59b7eb1173a0800000000000000
+      internalID: -6669518891097890000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 116
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39439cd659c8a980800000000000000
+      internalID: -8527344519521023686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 116
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b214ae91245e23970800000000000000
+      internalID: 8733294699490197803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 117
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174bbb1875d5e42b0800000000000000
+      internalID: -5598434656354847631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 117
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906899a7917ea0420800000000000000
+      internalID: 2597142231749592585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 116
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5101ec05a055710800000000000000
+      internalID: 1681261378063570412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 116
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d17fa2851c2c7640800000000000000
+      internalID: 5078982950665548244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 116
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf35125ee95379e0800000000000000
+      internalID: -1624856160436404305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 116
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44760c7fce111e5f0800000000000000
+      internalID: -729281955190773948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 116
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcc9efaf67afcd70800000000000000
+      internalID: 9065648673054641398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 116
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd21f6a220fe4e60800000000000000
+      internalID: 7948554423975882226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__19
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 116
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cec3e91ad8c5ab0800000000000000
+      internalID: -5017980159513531254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__20
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 104
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c413b9d10cfdc6a10800000000000000
+      internalID: 1904142758694302028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dba4a18f0adca770800000000000000
+      internalID: 8623507146642074576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 13
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb457878f42bcd60800000000000000
+      internalID: 7911457819997850608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 68
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947314e013eb92910800000000000000
+      internalID: 1813189442895165257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 14
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27256f67ad069a7f0800000000000000
+      internalID: -600842583862259086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 13
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28363af4f117f0af0800000000000000
+      internalID: -427999060282875006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271cd0e1baa4cf870800000000000000
+      internalID: 8717925077486518642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 13
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9480b669465708eb0800000000000000
+      internalID: -4719643334603503543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 14
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49331179574e82b0800000000000000
+      internalID: -5580444438790719158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 13
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f391844c67c2320800000000000000
+      internalID: 2534531275698028307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 13
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ec97c770db610e0800000000000000
+      internalID: -2299442719875281353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 13
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7bc3ef9273a8610800000000000000
+      internalID: 1624171269119063998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 13
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148a0a100eb5a40f0800000000000000
+      internalID: -1131991338672150463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__33
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c699532ec953480800000000000000
+      internalID: -8920050991561610231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conditions Treated by Physiotherapy__34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c8dfda52dbb37f0800000000000000
+      internalID: -631703353184908139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
